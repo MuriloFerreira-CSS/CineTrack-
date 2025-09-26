@@ -29,7 +29,7 @@ Compilador GCC
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/cinetrack.git
+git clone https://github.com/MuriloFerreira-CSS/CineTrack-
 
 
 Compile o programa com o GCC:
